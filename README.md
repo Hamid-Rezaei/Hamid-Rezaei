@@ -25,7 +25,18 @@ Here are some ideas to get you started:
   - Computer Networks
   - Software and Service Engineering
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamid-Rezaei&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Hamid-Rezaei&show_icons=true&theme=algolia&hide_rank=True"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Rezaei&layout=compact&theme=algolia&langs_count=8"/>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
 
 ![](https://komarev.com/ghpvc/?username=Hamid-Rezaei&color=lightgrey)
 
